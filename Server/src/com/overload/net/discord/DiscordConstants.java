@@ -6,16 +6,16 @@ public class DiscordConstants {
 	
 	public static final String Prefex = "::";
 	
-	public static final String DISCORD_BOT_MESSAGE = "Overload | type ::help";
+	public static final String DISCORD_BOT_MESSAGE = "Project | type ::help";
 	
 	
 	public static boolean DEBUG = false;
 	
 	public static int Timer = 40;
 	
-	public static String FOOTER_ICON = "https://cdn.pbrd.co/images/H3Zg1tp.png";
+	public static String FOOTER_ICON = "https://cdn.pbrd.co/images/H3Zg1tp.png";//need image
 	
-	public static final String Token = "NDIyNTI3MTM0OTcyNTEwMjE4.DYdHPQ.8o8qGTTaLHKBJ0-2qTsWm_6WniQ";
+	public static final String Token = "NDc2ODY5NTg1OTg4MDkxOTI0.DlV9LQ.FZa51Vctyr0rNNl74ONZWyFBgbg";
 
 	public static String getToken() {
 		return Token;
@@ -25,7 +25,7 @@ public class DiscordConstants {
 		return Prefex;
 	}
 	
-	public static final String[] PERMS = {"Overload Member", "Server Support", "Moderator", "Forum Developer", "Graphics Designer"};
+	public static final String[] PERMS = {"Member", "Server Support", "Moderator", "Forum Developer", "Graphics Designer"};
 
 	public static final String[] FULLPERMS = {"Founder", "Developer","Community Manager","Administrator"};
 	

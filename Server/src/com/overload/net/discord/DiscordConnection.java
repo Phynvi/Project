@@ -57,7 +57,7 @@ public class DiscordConnection {
 
 	
 	public void setDefualt() {
-		DiscordConstants.setMainChannel(getBuilder().getTextChannelById("389837947681112065"));
+		DiscordConstants.setMainChannel(getBuilder().getTextChannelById("476884942505115660"));
 	}
 
 }
