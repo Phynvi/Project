@@ -19,6 +19,16 @@
 		"radius": 0
 	},
 	{
+		"id": 401,
+		"position": {
+			"x": 3088,
+			"y": 3483,
+			"z": 0
+		},
+		"facing": "NORTH",
+		"radius": 0
+	},
+	{
 		"id": 395,
 		"position": {
 			"x": 1624,

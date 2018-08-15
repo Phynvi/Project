@@ -367,7 +367,7 @@ public class Bank extends ItemContainer {
 
                             // Temporarily disabled note withdrawal...
                             final boolean noteWithdrawal = player.withdrawAsNote();
-                            player.setNoteWithdrawal(false);
+                            player.setNoteWithdrawal(true);
 
                             // Move items from tab to main tab
                             for (Item item : items) {
@@ -404,6 +404,7 @@ public class Bank extends ItemContainer {
                 }
 
                 switch (button) {
+                	
                     case 50013:
                         // Show menu
                         player.getPacketSender().sendInterfaceRemoval();
@@ -431,7 +432,7 @@ public class Bank extends ItemContainer {
                         break;
                     case 5384:
                     case 50001:
-                        player.getPacketSender().sendInterfaceRemoval();
+                        player.setInterfaceId(-1);
                     break;
                     case 50008:
                         if (player.isSearchingBank()) {

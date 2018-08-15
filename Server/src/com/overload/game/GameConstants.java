@@ -14,7 +14,7 @@ public class GameConstants {
 	/**
 	 * The name of the game.
 	 */
-	public static final String NAME = "Overload";
+	public static final String NAME = "Project";
 
 	public static ForumService fs = new ForumService();
 	
@@ -73,7 +73,7 @@ public class GameConstants {
 	 * The default position, where players will spawn upon logging in for the first
 	 * time.
 	 */
-	public static final Position DEFAULT_POSITION = new Position(1629, 3743, 0);
+	public static final Position DEFAULT_POSITION = new Position(3087, 3501, 0);
 
 	/**
 	 * Should the inventory be refreshed immediately on switching items or should it
