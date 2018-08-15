@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="libs/guava-23.4-jre.jar"/>
+	<classpathentry kind="lib" path="libs/joda-time-2.9.9.jar"/>
+	<classpathentry kind="lib" path="libs/netty-all-4.1.17.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/HikariCP-2.3.7.jar"/>
+	<classpathentry kind="lib" path="libs/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="libs/jcabi-jdbc-0.16.jar"/>
+	<classpathentry kind="lib" path="libs/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="libs/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="libs/jcabi-aspects-0.7.21.jar"/>
+	<classpathentry kind="lib" path="libs/jcabi-log-0.7.jar"/>
+	<classpathentry kind="lib" path="libs/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="libs/JDA-3.5.0_327-withDependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

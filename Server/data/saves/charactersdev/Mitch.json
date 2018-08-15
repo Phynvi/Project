@@ -1,0 +1,570 @@
+{
+  "username": "Mitch",
+  "member-id": -1,
+  "password": "ssap",
+  "bank-pin": "",
+  "title": "empty",
+  "primary-right": "GAME_DEVELOPER",
+  "secondary-rights": "PLAYER:GAME_DEVELOPER",
+  "player-modes": "NORMAL",
+  "unique-string": "",
+  "discord-uid": "",
+  "starter-state": 1,
+  "position": {
+    "x": 3088,
+    "y": 3501,
+    "z": 0
+  },
+  "spell-book": "NORMAL",
+  "fight-type": "UNARMED_KICK",
+  "auto-retaliate": false,
+  "xp-locked": false,
+  "clanchat": "Mitch",
+  "target-teleport": false,
+  "preserve": false,
+  "rigour": false,
+  "augury": false,
+  "has-veng": false,
+  "last-veng": 0,
+  "running": true,
+  "run-energy": 100,
+  "spec-percentage": 100,
+  "recoil-damage": 0,
+  "poison-damage": 0,
+  "poison-immunity": 0,
+  "fire-immunity": 0,
+  "teleblock-timer": 0,
+  "prayerblock-timer": 0,
+  "target-search-timer": 0,
+  "special-attack-restore-timer": 0,
+  "skull-timer": 0,
+  "skull-type": "WHITE_SKULL",
+  "total-kills": 0,
+  "target-kills": 0,
+  "normal-kills": 0,
+  "killstreak": 0,
+  "highest-killstreak": 0,
+  "recent-kills": [],
+  "deaths": 0,
+  "points": 0,
+  "amount-donated": 0,
+  "blowpipe-scales": 0,
+  "blowpipe-ammo": 0,
+  "blowpipe-ammo-amount": 0,
+  "removed-slayer-tasks": ":::",
+  "slayer-tasks-completed": 0,
+  "slayer-master": 0,
+  "consecutive-tasks": 0,
+  "slayer-points": 0,
+  "pouches": [
+    {
+      "pouch": "SMALL_POUCH",
+      "runeEssenceAmt": 0,
+      "pureEssenceAmt": 0
+    },
+    {
+      "pouch": "MEDIUM_POUCH",
+      "runeEssenceAmt": 0,
+      "pureEssenceAmt": 0
+    },
+    {
+      "pouch": "LARGE_POUCH",
+      "runeEssenceAmt": 0,
+      "pureEssenceAmt": 0
+    },
+    {
+      "pouch": "GIANT_POUCH",
+      "runeEssenceAmt": 0,
+      "pureEssenceAmt": 0
+    }
+  ],
+  "inventory": [
+    {
+      "id": 5370,
+      "amount": 1
+    },
+    {
+      "id": 554,
+      "amount": 100000
+    },
+    {
+      "id": 952,
+      "amount": 1
+    },
+    {
+      "id": 6032,
+      "amount": 1
+    },
+    {
+      "id": 6055,
+      "amount": 1
+    },
+    {
+      "id": 6055,
+      "amount": 1
+    },
+    {
+      "id": 6055,
+      "amount": 1
+    },
+    {
+      "id": 6055,
+      "amount": 1
+    },
+    {
+      "id": 6055,
+      "amount": 1
+    },
+    {
+      "id": 6055,
+      "amount": 1
+    },
+    {
+      "id": 6055,
+      "amount": 1
+    },
+    {
+      "id": 6055,
+      "amount": 1
+    },
+    {
+      "id": 555,
+      "amount": 100000
+    },
+    {
+      "id": 556,
+      "amount": 100000
+    },
+    {
+      "id": 557,
+      "amount": 100000
+    },
+    {
+      "id": 558,
+      "amount": 100000
+    },
+    {
+      "id": 559,
+      "amount": 100000
+    },
+    {
+      "id": 560,
+      "amount": 100000
+    },
+    {
+      "id": 561,
+      "amount": 100000
+    },
+    {
+      "id": 562,
+      "amount": 100000
+    },
+    {
+      "id": 563,
+      "amount": 100000
+    },
+    {
+      "id": 564,
+      "amount": 100000
+    },
+    {
+      "id": 565,
+      "amount": 100000
+    },
+    {
+      "id": 566,
+      "amount": 100000
+    },
+    {
+      "id": 861,
+      "amount": 1
+    },
+    {
+      "id": 1511,
+      "amount": 1
+    },
+    {
+      "id": 1343,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 0
+    }
+  ],
+  "equipment": [
+    {
+      "id": 1153,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 1
+    },
+    {
+      "id": 1351,
+      "amount": 1
+    },
+    {
+      "id": 1115,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": 1067,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": 2902,
+      "amount": 1
+    },
+    {
+      "id": 4121,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 1
+    },
+    {
+      "id": 892,
+      "amount": 9989
+    }
+  ],
+  "appearance": [
+    0,
+    3,
+    18,
+    26,
+    34,
+    38,
+    42,
+    14,
+    2,
+    14,
+    5,
+    4,
+    0
+  ],
+  "skills": {
+    "level": [
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99
+    ],
+    "maxLevel": [
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99
+    ],
+    "experience": [
+      13034431,
+      13034431,
+      13038806,
+      13048081,
+      13051581,
+      13034431,
+      13034431,
+      13034431,
+      13113181,
+      13034431,
+      13034431,
+      13034431,
+      13035181,
+      13574431,
+      13034431,
+      13034431,
+      13557631,
+      13034431,
+      13034431,
+      13081831,
+      13034431,
+      13034431,
+      13034431
+    ]
+  },
+  "quick-prayers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "friends": [],
+  "ignores": [],
+  "DIARIES": {
+    "VARROCK": {
+      "JUMP_THE_FENCE": 0,
+      "GIVE_A_DOG_A_BONE": 0,
+      "LUMBER_YARD_DYING_TREE": 0,
+      "STRONGHOLD_OF_SECURITY": 0,
+      "ENTER_THE_CHAMPIONS_GUILD": 0,
+      "MINE_SOME_IRON": 0,
+      "NEWSPAPER": 0,
+      "STEAL_FROM_A_STALL": 0,
+      "GET_A_FREE_POTION": 0,
+      "MAKE_A_PLANK": 0,
+      "CRAFT_EARTH_RUNES": 0,
+      "TELEPORT_TO_ESSENCE_MINE": 0,
+      "BROWSE_THESSALIAS_STORE": 0,
+      "PICKPOCKET_A_GUARD": 0,
+      "START_FISHING": 0,
+      "CAST_VARROCK_TELEPORT": 0,
+      "FIRE_A_BOWL_IN_BARBARIAN_VILLAGE": 0
+    }
+  },
+  "bank-0": [
+    {
+      "id": 995,
+      "amount": 500000
+    },
+    {
+      "id": 555,
+      "amount": 100150
+    },
+    {
+      "id": 557,
+      "amount": 100150
+    },
+    {
+      "id": 554,
+      "amount": 100150
+    },
+    {
+      "id": 563,
+      "amount": 100150
+    },
+    {
+      "id": 558,
+      "amount": 100150
+    },
+    {
+      "id": 303,
+      "amount": 1
+    },
+    {
+      "id": 307,
+      "amount": 1
+    },
+    {
+      "id": 1351,
+      "amount": 1
+    },
+    {
+      "id": 1265,
+      "amount": 1
+    },
+    {
+      "id": 1381,
+      "amount": 1
+    },
+    {
+      "id": 882,
+      "amount": 1000
+    },
+    {
+      "id": 841,
+      "amount": 1
+    },
+    {
+      "id": 577,
+      "amount": 1
+    },
+    {
+      "id": 579,
+      "amount": 1
+    },
+    {
+      "id": 1011,
+      "amount": 1
+    },
+    {
+      "id": 590,
+      "amount": 1
+    },
+    {
+      "id": 229,
+      "amount": 100
+    },
+    {
+      "id": 313,
+      "amount": 500
+    },
+    {
+      "id": 379,
+      "amount": 100
+    },
+    {
+      "id": 1733,
+      "amount": 1
+    },
+    {
+      "id": 1734,
+      "amount": 199
+    },
+    {
+      "id": 954,
+      "amount": 1
+    },
+    {
+      "id": 301,
+      "amount": 1
+    },
+    {
+      "id": 249,
+      "amount": 50
+    },
+    {
+      "id": 1061,
+      "amount": 1
+    },
+    {
+      "id": 6793,
+      "amount": 1
+    },
+    {
+      "id": 1323,
+      "amount": 1
+    },
+    {
+      "id": 12695,
+      "amount": 1
+    },
+    {
+      "id": 12697,
+      "amount": 1
+    },
+    {
+      "id": 12699,
+      "amount": 1
+    },
+    {
+      "id": 12701,
+      "amount": 1
+    },
+    {
+      "id": 556,
+      "amount": 0
+    },
+    {
+      "id": 559,
+      "amount": 0
+    },
+    {
+      "id": 560,
+      "amount": 0
+    },
+    {
+      "id": 561,
+      "amount": 0
+    },
+    {
+      "id": 562,
+      "amount": 0
+    },
+    {
+      "id": 564,
+      "amount": 0
+    },
+    {
+      "id": 565,
+      "amount": 0
+    },
+    {
+      "id": 566,
+      "amount": 0
+    }
+  ],
+  "bank-1": [],
+  "bank-2": [],
+  "bank-3": [],
+  "bank-4": [],
+  "bank-5": [],
+  "bank-6": [],
+  "bank-7": [],
+  "bank-8": [],
+  "bank-9": []
+}

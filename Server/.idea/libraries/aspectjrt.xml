@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="aspectjrt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/aspectjrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/com.mysql.jdbc_5.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang3-3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-23.4-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/HikariCP-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javassist-3.19.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jcabi-aspects-0.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jcabi-jdbc-0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jcabi-log-0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JDA-3.5.0_327-withDependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/joda-time-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/netty-all-4.1.17.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/validation-api-1.0.0.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

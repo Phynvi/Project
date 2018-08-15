@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Overload-Client/Overload-Client.iml" filepath="$PROJECT_DIR$/Overload-Client/Overload-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overload-Server/Overload-Server.iml" filepath="$PROJECT_DIR$/Overload-Server/Overload-Server.iml" />
+    </modules>
+  </component>
+</project>
