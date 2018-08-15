@@ -14,7 +14,7 @@ public class DiscordMisc {
 		}
 		EmbedBuilder eb = new EmbedBuilder();
 		eb.setTimestamp(OffsetDateTime.parse("2018-01-21T19:00:33.855Z"));
-		eb.setColor(color).setFooter("Overload", DiscordConstants.FOOTER_ICON);
+		eb.setColor(color).setFooter("Project", DiscordConstants.FOOTER_ICON);
 		eb.setAuthor(event.getMessage().getAuthor().getName(), event.getMessage().getMember().getUser().getAvatarUrl(),event.getMessage().getMember().getUser().getAvatarUrl());
 		eb.setDescription(message);
 		event.getChannel().sendMessage(eb.build()).queue();
@@ -27,8 +27,8 @@ public class DiscordMisc {
 		EmbedBuilder eb = new EmbedBuilder();
 		
 		eb.setTimestamp(OffsetDateTime.parse("2018-01-21T19:00:33.855Z"));
-		eb.setColor(color).setFooter("Overload", DiscordConstants.FOOTER_ICON);
-		eb.setAuthor("Overload Server", DiscordConstants.FOOTER_ICON,DiscordConstants.FOOTER_ICON);
+		eb.setColor(color).setFooter("Project", DiscordConstants.FOOTER_ICON);
+		eb.setAuthor("Project Server", DiscordConstants.FOOTER_ICON,DiscordConstants.FOOTER_ICON);
 		eb.setDescription(message);
 		DiscordConstants.mainChannel.sendMessage(eb.build()).queue();
 	}

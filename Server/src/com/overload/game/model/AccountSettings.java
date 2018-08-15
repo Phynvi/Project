@@ -58,6 +58,9 @@ public class AccountSettings {
 				player.setEnterSyntax(new SetEmail());
 	            player.getPacketSender().sendEnterInputPrompt("Enter a Email");
 			break;
+			case 25006:
+				player.getPacketSender().sendInterfaceRemoval();
+			break;
 		}
 		updateInterface(player);
 	}
